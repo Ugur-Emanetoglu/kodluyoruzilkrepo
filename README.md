@@ -5,6 +5,7 @@ Bu repo [Patika.dev](https://patika.dev) GIT dersi için açılmıştır.
 
 ## Installation
 Öncelikle projeyi klonlayın
+
 '''
 git clone https://github.com/Ugur-Emanetoglu/kodluyoruzilkrepo.git
 '''
@@ -13,10 +14,11 @@ git clone https://github.com/Ugur-Emanetoglu/kodluyoruzilkrepo.git
 Projeyi klonladıktan sonra Visual Studio Code programında açın
 
 Linux için
-'''
+
+'
 cd kodluyoruzilkrepo
 code .
-'''
+'
 
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için önce neyi değiştirmek istediğinizi tartışmak için konu açın.
